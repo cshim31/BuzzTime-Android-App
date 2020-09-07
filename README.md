@@ -12,7 +12,7 @@ https://developer.android.com/studio/?gclid=CjwKCAjwztL2BRATEiwAvnALcoU1zAM9rn1Y
 
 ## Compile and Run
 git clone https://github.com/cshim31/BuzzTime-Android-App.git \
-Running app on linux is very hard, instead you need to launch the downloaded android studio IDE, open the cloned project and compile it. \
+Running app on linux is very hard, instead you need to launch the downloaded android studio IDE, open the cloned project and compile it.  
 
 
 ## Database

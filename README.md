@@ -16,5 +16,6 @@ Running app on linux is very hard, instead you need to launch the downloaded and
 
 
 ## Database
-User login and course information are stored in a private database. Private database is likely to be expired, and therefore if you'd like to use your own database, User might need to write their own php file to enable the login function.
+User login and course information are stored in a private database. Private database is likely to be expired, and therefore if you'd like to use your own database, User might need to modify link to database in request files (ex : UserLoginRequest.java, RegisterRequest.java, etc).
+Original PHP scripts are uploaded inside the "php" folder. Feel free to modify php script as well to change database administrator's credentials.
 
